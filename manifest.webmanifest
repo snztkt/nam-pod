@@ -1,0 +1,1 @@
+{"name":"NamPod","short_name":"NamPod","start_url":".","display":"standalone","background_color":"#E0F7FA","theme_color":"#ff9900","lang":"en","scope":"/nam-pod/","icons":[{"src":"icons/nampod-192x192.png","sizes":"192x192","type":"image/png"},{"src":"icons/nampod-512x512.png","sizes":"512x512","type":"image/png"}]}
